@@ -1,4 +1,4 @@
-# LearnFusion_Project
+# LearnFusion_Projects
 
 ## Speech Recognition Module
 
